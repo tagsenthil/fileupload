@@ -1,0 +1,4 @@
+"Customer Id","Customer name","Email","Phone number","Address","City","Country"
+123,"John","John@gmail.com",1234567890,"123 Newyork St","New York","USA"
+456,"Smith","smith@gmail.com",987654321,"456 Gold Dust Trl","Austin","USA"
+789,"Sam","sam@wipro.com",1234567890,"890 Testing","York","USA"
